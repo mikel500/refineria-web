@@ -1,4 +1,14 @@
-# refineriaweb
+# Prueba Refineria Web
+
+## Observaciones 
+
+La maqueta proporcionada para la prueba correspondía a una vista de ordenador, presupongo que 1920x1080. He intentado mantenerme fiel al layout del mockup lo máximo posible. Dado que no me han sido proporcionadas fotos, tipografías, logo corporativo vectorial e iconos; puede que algunos recursos no sean los mismos, aunque la esencia permanece.
+
+El diseño es responsive en los diferentes viewports. 
+
+Agradezco vuestro tiempo y la oportunidad de participar en el proceso de selección. La verdad es que ha sido divertido maquetar con un diseño :).
+
+
 
 ## Build Setup
 
